@@ -1,0 +1,26 @@
+This project uses the following external libraries:
+
+- **requests**  
+  Installation: `pip install requests`
+
+- **beautifulsoup4**  
+  Installation: `pip install beautifulsoup4`
+
+- **fake-useragent**  
+  Installation: `pip install fake-useragent`
+
+> Note: The `csv` module is part of Python's standard library and does not require installation.
+
+---
+
+## Installation Process using file
+
+Make sure Python and pip are installed on your system.  
+Then open your terminal or command prompt and run:
+
+```bash
+pip install -r libraries.txt
+
+or
+
+python -m pip install -r requirements.txt

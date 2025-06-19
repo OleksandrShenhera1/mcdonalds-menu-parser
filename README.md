@@ -17,6 +17,7 @@ A simple Python script that scrapes menu items and prices from the McDonald's we
 
 - `requests` – for sending HTTP requests
 - `beautifulsoup4` – for parsing HTML
+- `lxml` - library for parsing
 - `fake-useragent` – for generating random User-Agent headers
 - `csv` – built-in Python module for saving data
 
